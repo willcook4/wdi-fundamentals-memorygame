@@ -4,3 +4,17 @@ var cardOne = "queen";
 var cardTwo = "queen";
 var cardThree = "king";
 var cardFour = "king";
+
+if (cardTwo === cardFour) {
+	//queen and king
+	alert("Sorry, try agian");
+}
+
+else if (cardOne === cardTwo) {
+	// two queens
+	alert("You got a match! 2 Queens");
+} 
+
+else if (cardThree === cardFour) {
+	alert("You got a match! 2 Kings");
+}

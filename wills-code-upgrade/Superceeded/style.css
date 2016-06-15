@@ -1,5 +1,3 @@
-/* Will Cook 2016 */
-
 .board {
 	height: 50%;
 	width: 50%;
@@ -10,35 +8,18 @@
 	height: 200px;
 	width: 150px;
 	border: 1px black solid;
-	background-color: #ffbf00;
+	background-color: red;
 	border-radius: 10px;
 	display: inline-block;
 	margin: 50px;
 }
-button {
-	margin: 0 auto;	
-}
-
-img {
-	height: 200px;
-	width: 150px;
-	margin-bottom: 50px;
-}
 
 h1 {
-	color: rgb(2,132,130);
-	/*color: red;*/
+color: rgb(2,132,130);
 }
 
 h2 {
 	color: #ffd700;
-}
-h4 a {
-	text-decoration: none;
-	color: black;
-}
-h4 a:hover {
-	color: rgb(2,132,130);
 }
 
 .name {

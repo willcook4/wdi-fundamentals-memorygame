@@ -10,7 +10,8 @@
 	height: 200px;
 	width: 150px;
 	border: 1px black solid;
-	background-color: #ffbf00;
+	//background-color: #ffbf00;
+	background-color: red;
 	border-radius: 10px;
 	display: inline-block;
 	margin: 50px;
